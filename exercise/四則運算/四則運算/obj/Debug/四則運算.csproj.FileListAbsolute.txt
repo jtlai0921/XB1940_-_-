@@ -1,0 +1,6 @@
+D:\C-sharp\exercise\四則運算\四則運算\bin\Debug\四則運算.exe.config
+D:\C-sharp\exercise\四則運算\四則運算\bin\Debug\四則運算.exe
+D:\C-sharp\exercise\四則運算\四則運算\bin\Debug\四則運算.pdb
+D:\C-sharp\exercise\四則運算\四則運算\obj\Debug\四則運算.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\四則運算\四則運算\obj\Debug\四則運算.exe
+D:\C-sharp\exercise\四則運算\四則運算\obj\Debug\四則運算.pdb

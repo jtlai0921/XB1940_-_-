@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\Conditional\Conditional\bin\Debug\Conditional.exe.config
+D:\C-sharp\ch04\Conditional\Conditional\bin\Debug\Conditional.exe
+D:\C-sharp\ch04\Conditional\Conditional\bin\Debug\Conditional.pdb
+D:\C-sharp\ch04\Conditional\Conditional\obj\Debug\Conditional.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\Conditional\Conditional\obj\Debug\Conditional.exe
+D:\C-sharp\ch04\Conditional\Conditional\obj\Debug\Conditional.pdb

@@ -1,0 +1,7 @@
+D:\C-sharp\ch01\Hello\Hello\bin\Debug\Hello.exe.config
+D:\C-sharp\ch01\Hello\Hello\bin\Debug\Hello.exe
+D:\C-sharp\ch01\Hello\Hello\bin\Debug\Hello.pdb
+D:\C-sharp\ch01\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+D:\C-sharp\ch01\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch01\Hello\Hello\obj\Debug\Hello.exe
+D:\C-sharp\ch01\Hello\Hello\obj\Debug\Hello.pdb

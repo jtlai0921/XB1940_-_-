@@ -1,0 +1,6 @@
+D:\C-sharp\ch02\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe.config
+D:\C-sharp\ch02\TypeConvert\TypeConvert\bin\Debug\TypeConvert.exe
+D:\C-sharp\ch02\TypeConvert\TypeConvert\bin\Debug\TypeConvert.pdb
+D:\C-sharp\ch02\TypeConvert\TypeConvert\obj\Debug\TypeConvert.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\TypeConvert\TypeConvert\obj\Debug\TypeConvert.exe
+D:\C-sharp\ch02\TypeConvert\TypeConvert\obj\Debug\TypeConvert.pdb

@@ -1,0 +1,6 @@
+D:\C-sharp\ch07\PrivateFun\PrivateFun\bin\Debug\PrivateFun.exe.config
+D:\C-sharp\ch07\PrivateFun\PrivateFun\bin\Debug\PrivateFun.exe
+D:\C-sharp\ch07\PrivateFun\PrivateFun\bin\Debug\PrivateFun.pdb
+D:\C-sharp\ch07\PrivateFun\PrivateFun\obj\Debug\PrivateFun.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch07\PrivateFun\PrivateFun\obj\Debug\PrivateFun.exe
+D:\C-sharp\ch07\PrivateFun\PrivateFun\obj\Debug\PrivateFun.pdb

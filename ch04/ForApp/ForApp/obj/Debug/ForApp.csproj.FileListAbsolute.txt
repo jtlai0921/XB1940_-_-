@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\ForApp\ForApp\bin\Debug\ForApp.exe.config
+D:\C-sharp\ch04\ForApp\ForApp\bin\Debug\ForApp.exe
+D:\C-sharp\ch04\ForApp\ForApp\bin\Debug\ForApp.pdb
+D:\C-sharp\ch04\ForApp\ForApp\obj\Debug\ForApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\ForApp\ForApp\obj\Debug\ForApp.exe
+D:\C-sharp\ch04\ForApp\ForApp\obj\Debug\ForApp.pdb

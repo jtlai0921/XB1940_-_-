@@ -1,0 +1,6 @@
+D:\C-sharp\ch03\StrAdd\StrAdd\bin\Debug\StrAdd.exe.config
+D:\C-sharp\ch03\StrAdd\StrAdd\bin\Debug\StrAdd.exe
+D:\C-sharp\ch03\StrAdd\StrAdd\bin\Debug\StrAdd.pdb
+D:\C-sharp\ch03\StrAdd\StrAdd\obj\Debug\StrAdd.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch03\StrAdd\StrAdd\obj\Debug\StrAdd.exe
+D:\C-sharp\ch03\StrAdd\StrAdd\obj\Debug\StrAdd.pdb

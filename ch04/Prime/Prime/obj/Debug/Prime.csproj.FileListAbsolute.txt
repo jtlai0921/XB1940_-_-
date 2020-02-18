@@ -1,0 +1,7 @@
+D:\C-sharp\ch04\Prime\Prime\bin\Debug\Prime.exe.config
+D:\C-sharp\ch04\Prime\Prime\bin\Debug\Prime.exe
+D:\C-sharp\ch04\Prime\Prime\bin\Debug\Prime.pdb
+D:\C-sharp\ch04\Prime\Prime\obj\Debug\Prime.csprojAssemblyReference.cache
+D:\C-sharp\ch04\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\Prime\Prime\obj\Debug\Prime.exe
+D:\C-sharp\ch04\Prime\Prime\obj\Debug\Prime.pdb

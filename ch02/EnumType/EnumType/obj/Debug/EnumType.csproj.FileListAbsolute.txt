@@ -1,0 +1,6 @@
+D:\C-sharp\ch02\EnumType\EnumType\bin\Debug\EnumType.exe.config
+D:\C-sharp\ch02\EnumType\EnumType\bin\Debug\EnumType.exe
+D:\C-sharp\ch02\EnumType\EnumType\bin\Debug\EnumType.pdb
+D:\C-sharp\ch02\EnumType\EnumType\obj\Debug\EnumType.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\EnumType\EnumType\obj\Debug\EnumType.exe
+D:\C-sharp\ch02\EnumType\EnumType\obj\Debug\EnumType.pdb

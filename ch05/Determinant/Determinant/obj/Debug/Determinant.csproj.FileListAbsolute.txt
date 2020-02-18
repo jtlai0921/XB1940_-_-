@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\Determinant\Determinant\bin\Debug\Determinant.exe.config
+D:\C-sharp\ch05\Determinant\Determinant\bin\Debug\Determinant.exe
+D:\C-sharp\ch05\Determinant\Determinant\bin\Debug\Determinant.pdb
+D:\C-sharp\ch05\Determinant\Determinant\obj\Debug\Determinant.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\Determinant\Determinant\obj\Debug\Determinant.exe
+D:\C-sharp\ch05\Determinant\Determinant\obj\Debug\Determinant.pdb

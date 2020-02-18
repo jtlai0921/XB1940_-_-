@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.exe.config
+D:\C-sharp\ch05\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.exe
+D:\C-sharp\ch05\StringBuilderApp\StringBuilderApp\bin\Debug\StringBuilderApp.pdb
+D:\C-sharp\ch05\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.exe
+D:\C-sharp\ch05\StringBuilderApp\StringBuilderApp\obj\Debug\StringBuilderApp.pdb

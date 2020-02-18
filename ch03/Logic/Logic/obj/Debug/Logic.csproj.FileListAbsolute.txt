@@ -1,0 +1,7 @@
+D:\C-sharp\ch03\Logic\Logic\bin\Debug\Logic.exe.config
+D:\C-sharp\ch03\Logic\Logic\bin\Debug\Logic.exe
+D:\C-sharp\ch03\Logic\Logic\bin\Debug\Logic.pdb
+D:\C-sharp\ch03\Logic\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+D:\C-sharp\ch03\Logic\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch03\Logic\Logic\obj\Debug\Logic.exe
+D:\C-sharp\ch03\Logic\Logic\obj\Debug\Logic.pdb

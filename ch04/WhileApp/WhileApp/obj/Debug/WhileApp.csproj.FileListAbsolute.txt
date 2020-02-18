@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\WhileApp\WhileApp\bin\Debug\WhileApp.exe.config
+D:\C-sharp\ch04\WhileApp\WhileApp\bin\Debug\WhileApp.exe
+D:\C-sharp\ch04\WhileApp\WhileApp\bin\Debug\WhileApp.pdb
+D:\C-sharp\ch04\WhileApp\WhileApp\obj\Debug\WhileApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\WhileApp\WhileApp\obj\Debug\WhileApp.exe
+D:\C-sharp\ch04\WhileApp\WhileApp\obj\Debug\WhileApp.pdb

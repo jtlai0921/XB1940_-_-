@@ -1,0 +1,6 @@
+D:\C-sharp\ch06\TimeApp\TimeApp\bin\Debug\TimeApp.exe.config
+D:\C-sharp\ch06\TimeApp\TimeApp\bin\Debug\TimeApp.exe
+D:\C-sharp\ch06\TimeApp\TimeApp\bin\Debug\TimeApp.pdb
+D:\C-sharp\ch06\TimeApp\TimeApp\obj\Debug\TimeApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\TimeApp\TimeApp\obj\Debug\TimeApp.exe
+D:\C-sharp\ch06\TimeApp\TimeApp\obj\Debug\TimeApp.pdb

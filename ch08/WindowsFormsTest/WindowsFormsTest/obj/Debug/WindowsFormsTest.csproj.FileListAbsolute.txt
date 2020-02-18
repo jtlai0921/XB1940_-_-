@@ -1,0 +1,10 @@
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csprojAssemblyReference.cache
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Form1.resources
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.GenerateResource.cache
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+D:\C-sharp\ch08\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb

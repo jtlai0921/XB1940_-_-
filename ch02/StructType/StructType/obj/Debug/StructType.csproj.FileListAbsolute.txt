@@ -1,0 +1,6 @@
+D:\C-sharp\ch02\StructType\StructType\bin\Debug\StructType.exe.config
+D:\C-sharp\ch02\StructType\StructType\bin\Debug\StructType.exe
+D:\C-sharp\ch02\StructType\StructType\bin\Debug\StructType.pdb
+D:\C-sharp\ch02\StructType\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\StructType\StructType\obj\Debug\StructType.exe
+D:\C-sharp\ch02\StructType\StructType\obj\Debug\StructType.pdb

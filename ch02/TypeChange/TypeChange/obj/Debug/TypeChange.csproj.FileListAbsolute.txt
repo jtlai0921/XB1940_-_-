@@ -1,0 +1,6 @@
+D:\C-sharp\ch02\TypeChange\TypeChange\bin\Debug\TypeChange.exe.config
+D:\C-sharp\ch02\TypeChange\TypeChange\bin\Debug\TypeChange.exe
+D:\C-sharp\ch02\TypeChange\TypeChange\bin\Debug\TypeChange.pdb
+D:\C-sharp\ch02\TypeChange\TypeChange\obj\Debug\TypeChange.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\TypeChange\TypeChange\obj\Debug\TypeChange.exe
+D:\C-sharp\ch02\TypeChange\TypeChange\obj\Debug\TypeChange.pdb

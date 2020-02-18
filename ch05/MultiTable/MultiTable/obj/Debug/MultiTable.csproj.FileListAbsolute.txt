@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\MultiTable\MultiTable\bin\Debug\MultiTable.exe.config
+D:\C-sharp\ch05\MultiTable\MultiTable\bin\Debug\MultiTable.exe
+D:\C-sharp\ch05\MultiTable\MultiTable\bin\Debug\MultiTable.pdb
+D:\C-sharp\ch05\MultiTable\MultiTable\obj\Debug\MultiTable.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\MultiTable\MultiTable\obj\Debug\MultiTable.exe
+D:\C-sharp\ch05\MultiTable\MultiTable\obj\Debug\MultiTable.pdb

@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\Jagged\Jagged\bin\Debug\Jagged.exe.config
+D:\C-sharp\ch05\Jagged\Jagged\bin\Debug\Jagged.exe
+D:\C-sharp\ch05\Jagged\Jagged\bin\Debug\Jagged.pdb
+D:\C-sharp\ch05\Jagged\Jagged\obj\Debug\Jagged.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\Jagged\Jagged\obj\Debug\Jagged.exe
+D:\C-sharp\ch05\Jagged\Jagged\obj\Debug\Jagged.pdb

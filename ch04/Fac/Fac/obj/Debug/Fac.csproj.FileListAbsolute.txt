@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\Fac\Fac\bin\Debug\Fac.exe.config
+D:\C-sharp\ch04\Fac\Fac\bin\Debug\Fac.exe
+D:\C-sharp\ch04\Fac\Fac\bin\Debug\Fac.pdb
+D:\C-sharp\ch04\Fac\Fac\obj\Debug\Fac.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\Fac\Fac\obj\Debug\Fac.exe
+D:\C-sharp\ch04\Fac\Fac\obj\Debug\Fac.pdb

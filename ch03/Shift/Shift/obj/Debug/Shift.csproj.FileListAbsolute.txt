@@ -1,0 +1,7 @@
+D:\C-sharp\ch03\Shift\Shift\bin\Debug\Shift.exe.config
+D:\C-sharp\ch03\Shift\Shift\bin\Debug\Shift.exe
+D:\C-sharp\ch03\Shift\Shift\bin\Debug\Shift.pdb
+D:\C-sharp\ch03\Shift\Shift\obj\Debug\Shift.csprojAssemblyReference.cache
+D:\C-sharp\ch03\Shift\Shift\obj\Debug\Shift.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch03\Shift\Shift\obj\Debug\Shift.exe
+D:\C-sharp\ch03\Shift\Shift\obj\Debug\Shift.pdb

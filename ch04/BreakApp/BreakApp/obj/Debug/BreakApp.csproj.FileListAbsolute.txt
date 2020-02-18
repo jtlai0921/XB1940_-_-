@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\BreakApp\BreakApp\bin\Debug\BreakApp.exe.config
+D:\C-sharp\ch04\BreakApp\BreakApp\bin\Debug\BreakApp.exe
+D:\C-sharp\ch04\BreakApp\BreakApp\bin\Debug\BreakApp.pdb
+D:\C-sharp\ch04\BreakApp\BreakApp\obj\Debug\BreakApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\BreakApp\BreakApp\obj\Debug\BreakApp.exe
+D:\C-sharp\ch04\BreakApp\BreakApp\obj\Debug\BreakApp.pdb

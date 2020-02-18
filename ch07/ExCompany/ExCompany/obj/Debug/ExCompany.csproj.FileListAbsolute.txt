@@ -1,0 +1,7 @@
+D:\C-sharp\ch07\ExCompany\ExCompany\bin\Debug\ExCompany.exe.config
+D:\C-sharp\ch07\ExCompany\ExCompany\bin\Debug\ExCompany.exe
+D:\C-sharp\ch07\ExCompany\ExCompany\bin\Debug\ExCompany.pdb
+D:\C-sharp\ch07\ExCompany\ExCompany\obj\Debug\ExCompany.csprojAssemblyReference.cache
+D:\C-sharp\ch07\ExCompany\ExCompany\obj\Debug\ExCompany.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch07\ExCompany\ExCompany\obj\Debug\ExCompany.exe
+D:\C-sharp\ch07\ExCompany\ExCompany\obj\Debug\ExCompany.pdb

@@ -1,0 +1,7 @@
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\bin\Debug\CallReference_ref.exe.config
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\bin\Debug\CallReference_ref.exe
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\bin\Debug\CallReference_ref.pdb
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\obj\Debug\CallReference_ref.csprojAssemblyReference.cache
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\obj\Debug\CallReference_ref.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\obj\Debug\CallReference_ref.exe
+D:\C-sharp\ch06\CallReference_ref\CallReference_ref\obj\Debug\CallReference_ref.pdb

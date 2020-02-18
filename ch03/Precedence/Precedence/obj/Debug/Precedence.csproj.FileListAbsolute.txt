@@ -1,0 +1,6 @@
+D:\C-sharp\ch03\Precedence\Precedence\bin\Debug\Precedence.exe.config
+D:\C-sharp\ch03\Precedence\Precedence\bin\Debug\Precedence.exe
+D:\C-sharp\ch03\Precedence\Precedence\bin\Debug\Precedence.pdb
+D:\C-sharp\ch03\Precedence\Precedence\obj\Debug\Precedence.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch03\Precedence\Precedence\obj\Debug\Precedence.exe
+D:\C-sharp\ch03\Precedence\Precedence\obj\Debug\Precedence.pdb

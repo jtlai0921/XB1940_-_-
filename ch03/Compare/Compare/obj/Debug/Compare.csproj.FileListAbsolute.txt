@@ -1,0 +1,6 @@
+D:\C-sharp\ch03\Compare\Compare\bin\Debug\Compare.exe.config
+D:\C-sharp\ch03\Compare\Compare\bin\Debug\Compare.exe
+D:\C-sharp\ch03\Compare\Compare\bin\Debug\Compare.pdb
+D:\C-sharp\ch03\Compare\Compare\obj\Debug\Compare.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch03\Compare\Compare\obj\Debug\Compare.exe
+D:\C-sharp\ch03\Compare\Compare\obj\Debug\Compare.pdb

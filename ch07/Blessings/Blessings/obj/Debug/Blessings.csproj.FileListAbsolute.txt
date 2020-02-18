@@ -1,0 +1,7 @@
+D:\C-sharp\ch07\Blessings\Blessings\obj\Debug\Blessings.csprojAssemblyReference.cache
+D:\C-sharp\ch07\Blessings\Blessings\obj\Debug\Blessings.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch07\Blessings\Blessings\bin\Debug\Blessings.exe.config
+D:\C-sharp\ch07\Blessings\Blessings\bin\Debug\Blessings.exe
+D:\C-sharp\ch07\Blessings\Blessings\bin\Debug\Blessings.pdb
+D:\C-sharp\ch07\Blessings\Blessings\obj\Debug\Blessings.exe
+D:\C-sharp\ch07\Blessings\Blessings\obj\Debug\Blessings.pdb

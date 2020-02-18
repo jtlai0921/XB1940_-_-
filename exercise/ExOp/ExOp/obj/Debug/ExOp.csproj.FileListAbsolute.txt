@@ -1,0 +1,7 @@
+D:\C-sharp\exercise\ExOp\ExOp\bin\Debug\ExOp.exe.config
+D:\C-sharp\exercise\ExOp\ExOp\bin\Debug\ExOp.exe
+D:\C-sharp\exercise\ExOp\ExOp\bin\Debug\ExOp.pdb
+D:\C-sharp\exercise\ExOp\ExOp\obj\Debug\ExOp.csprojAssemblyReference.cache
+D:\C-sharp\exercise\ExOp\ExOp\obj\Debug\ExOp.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\ExOp\ExOp\obj\Debug\ExOp.exe
+D:\C-sharp\exercise\ExOp\ExOp\obj\Debug\ExOp.pdb

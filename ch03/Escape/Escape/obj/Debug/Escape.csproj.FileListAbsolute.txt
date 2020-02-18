@@ -1,0 +1,6 @@
+D:\C-sharp\ch03\Escape\Escape\bin\Debug\Escape.exe.config
+D:\C-sharp\ch03\Escape\Escape\bin\Debug\Escape.exe
+D:\C-sharp\ch03\Escape\Escape\bin\Debug\Escape.pdb
+D:\C-sharp\ch03\Escape\Escape\obj\Debug\Escape.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch03\Escape\Escape\obj\Debug\Escape.exe
+D:\C-sharp\ch03\Escape\Escape\obj\Debug\Escape.pdb

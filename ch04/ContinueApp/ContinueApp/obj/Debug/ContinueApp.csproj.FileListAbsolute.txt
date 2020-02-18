@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\ContinueApp\ContinueApp\bin\Debug\ContinueApp.exe.config
+D:\C-sharp\ch04\ContinueApp\ContinueApp\bin\Debug\ContinueApp.exe
+D:\C-sharp\ch04\ContinueApp\ContinueApp\bin\Debug\ContinueApp.pdb
+D:\C-sharp\ch04\ContinueApp\ContinueApp\obj\Debug\ContinueApp.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\ContinueApp\ContinueApp\obj\Debug\ContinueApp.exe
+D:\C-sharp\ch04\ContinueApp\ContinueApp\obj\Debug\ContinueApp.pdb

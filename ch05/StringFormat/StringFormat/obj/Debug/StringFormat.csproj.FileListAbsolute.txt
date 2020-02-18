@@ -1,0 +1,7 @@
+D:\C-sharp\ch05\StringFormat\StringFormat\bin\Debug\StringFormat.exe.config
+D:\C-sharp\ch05\StringFormat\StringFormat\bin\Debug\StringFormat.exe
+D:\C-sharp\ch05\StringFormat\StringFormat\bin\Debug\StringFormat.pdb
+D:\C-sharp\ch05\StringFormat\StringFormat\obj\Debug\StringFormat.csprojAssemblyReference.cache
+D:\C-sharp\ch05\StringFormat\StringFormat\obj\Debug\StringFormat.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\StringFormat\StringFormat\obj\Debug\StringFormat.exe
+D:\C-sharp\ch05\StringFormat\StringFormat\obj\Debug\StringFormat.pdb

@@ -1,0 +1,7 @@
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\bin\Debug\MatrixAdd.exe.config
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\bin\Debug\MatrixAdd.exe
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\bin\Debug\MatrixAdd.pdb
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\obj\Debug\MatrixAdd.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\obj\Debug\MatrixAdd.exe
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\obj\Debug\MatrixAdd.pdb
+D:\C-sharp\ch05\MatrixAdd\MatrixAdd\obj\Debug\MatrixAdd.csprojAssemblyReference.cache

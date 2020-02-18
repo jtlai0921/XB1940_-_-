@@ -1,0 +1,7 @@
+D:\C-sharp\ch02\NowTime\NowTime\bin\Debug\NowTime.exe.config
+D:\C-sharp\ch02\NowTime\NowTime\bin\Debug\NowTime.exe
+D:\C-sharp\ch02\NowTime\NowTime\bin\Debug\NowTime.pdb
+D:\C-sharp\ch02\NowTime\NowTime\obj\Debug\NowTime.csprojAssemblyReference.cache
+D:\C-sharp\ch02\NowTime\NowTime\obj\Debug\NowTime.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\NowTime\NowTime\obj\Debug\NowTime.exe
+D:\C-sharp\ch02\NowTime\NowTime\obj\Debug\NowTime.pdb

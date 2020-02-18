@@ -1,0 +1,7 @@
+D:\C-sharp\ch06\UseMethod\UseMethod\bin\Debug\UseMethod.exe.config
+D:\C-sharp\ch06\UseMethod\UseMethod\bin\Debug\UseMethod.exe
+D:\C-sharp\ch06\UseMethod\UseMethod\bin\Debug\UseMethod.pdb
+D:\C-sharp\ch06\UseMethod\UseMethod\obj\Debug\UseMethod.csprojAssemblyReference.cache
+D:\C-sharp\ch06\UseMethod\UseMethod\obj\Debug\UseMethod.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\UseMethod\UseMethod\obj\Debug\UseMethod.exe
+D:\C-sharp\ch06\UseMethod\UseMethod\obj\Debug\UseMethod.pdb

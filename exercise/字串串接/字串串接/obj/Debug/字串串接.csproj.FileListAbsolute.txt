@@ -1,0 +1,6 @@
+D:\C-sharp\exercise\字串串接\字串串接\bin\Debug\字串串接.exe.config
+D:\C-sharp\exercise\字串串接\字串串接\bin\Debug\字串串接.exe
+D:\C-sharp\exercise\字串串接\字串串接\bin\Debug\字串串接.pdb
+D:\C-sharp\exercise\字串串接\字串串接\obj\Debug\字串串接.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\字串串接\字串串接\obj\Debug\字串串接.exe
+D:\C-sharp\exercise\字串串接\字串串接\obj\Debug\字串串接.pdb

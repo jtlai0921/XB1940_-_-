@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\NestedFor\NestedFor\bin\Debug\NestedFor.exe.config
+D:\C-sharp\ch04\NestedFor\NestedFor\bin\Debug\NestedFor.exe
+D:\C-sharp\ch04\NestedFor\NestedFor\bin\Debug\NestedFor.pdb
+D:\C-sharp\ch04\NestedFor\NestedFor\obj\Debug\NestedFor.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\NestedFor\NestedFor\obj\Debug\NestedFor.exe
+D:\C-sharp\ch04\NestedFor\NestedFor\obj\Debug\NestedFor.pdb

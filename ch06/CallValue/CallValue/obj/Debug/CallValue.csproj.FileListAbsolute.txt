@@ -1,0 +1,7 @@
+D:\C-sharp\ch06\CallValue\CallValue\bin\Debug\CallValue.exe.config
+D:\C-sharp\ch06\CallValue\CallValue\bin\Debug\CallValue.exe
+D:\C-sharp\ch06\CallValue\CallValue\bin\Debug\CallValue.pdb
+D:\C-sharp\ch06\CallValue\CallValue\obj\Debug\CallValue.csprojAssemblyReference.cache
+D:\C-sharp\ch06\CallValue\CallValue\obj\Debug\CallValue.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\CallValue\CallValue\obj\Debug\CallValue.exe
+D:\C-sharp\ch06\CallValue\CallValue\obj\Debug\CallValue.pdb

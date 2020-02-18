@@ -1,0 +1,9 @@
+D:\C-sharp\exercise\Exam2\Exam2\bin\Debug\Exam2.exe.config
+D:\C-sharp\exercise\Exam2\Exam2\bin\Debug\Exam2.exe
+D:\C-sharp\exercise\Exam2\Exam2\bin\Debug\Exam2.pdb
+D:\C-sharp\exercise\Exam2\Exam2\obj\Debug\Exam2.Form1.resources
+D:\C-sharp\exercise\Exam2\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+D:\C-sharp\exercise\Exam2\Exam2\obj\Debug\Exam2.csproj.GenerateResource.cache
+D:\C-sharp\exercise\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\Exam2\Exam2\obj\Debug\Exam2.exe
+D:\C-sharp\exercise\Exam2\Exam2\obj\Debug\Exam2.pdb

@@ -1,0 +1,6 @@
+D:\C-sharp\exercise\最小數\最小數\bin\Debug\最小數.exe.config
+D:\C-sharp\exercise\最小數\最小數\bin\Debug\最小數.exe
+D:\C-sharp\exercise\最小數\最小數\bin\Debug\最小數.pdb
+D:\C-sharp\exercise\最小數\最小數\obj\Debug\最小數.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\最小數\最小數\obj\Debug\最小數.exe
+D:\C-sharp\exercise\最小數\最小數\obj\Debug\最小數.pdb

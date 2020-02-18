@@ -1,0 +1,6 @@
+D:\C-sharp\ch06\Params\Params\bin\Debug\Params.exe.config
+D:\C-sharp\ch06\Params\Params\bin\Debug\Params.exe
+D:\C-sharp\ch06\Params\Params\bin\Debug\Params.pdb
+D:\C-sharp\ch06\Params\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\Params\Params\obj\Debug\Params.exe
+D:\C-sharp\ch06\Params\Params\obj\Debug\Params.pdb

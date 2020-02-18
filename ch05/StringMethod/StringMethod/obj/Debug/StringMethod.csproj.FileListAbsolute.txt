@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\StringMethod\StringMethod\bin\Debug\StringMethod.exe.config
+D:\C-sharp\ch05\StringMethod\StringMethod\bin\Debug\StringMethod.exe
+D:\C-sharp\ch05\StringMethod\StringMethod\bin\Debug\StringMethod.pdb
+D:\C-sharp\ch05\StringMethod\StringMethod\obj\Debug\StringMethod.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\StringMethod\StringMethod\obj\Debug\StringMethod.exe
+D:\C-sharp\ch05\StringMethod\StringMethod\obj\Debug\StringMethod.pdb

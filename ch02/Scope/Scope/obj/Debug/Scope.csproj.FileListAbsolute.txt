@@ -1,0 +1,7 @@
+D:\C-sharp\ch02\Scope\Scope\bin\Debug\Scope.exe.config
+D:\C-sharp\ch02\Scope\Scope\bin\Debug\Scope.exe
+D:\C-sharp\ch02\Scope\Scope\bin\Debug\Scope.pdb
+D:\C-sharp\ch02\Scope\Scope\obj\Debug\Scope.csprojAssemblyReference.cache
+D:\C-sharp\ch02\Scope\Scope\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\Scope\Scope\obj\Debug\Scope.exe
+D:\C-sharp\ch02\Scope\Scope\obj\Debug\Scope.pdb

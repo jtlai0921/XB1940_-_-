@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\Dim3\Dim3\bin\Debug\Dim3.exe.config
+D:\C-sharp\ch05\Dim3\Dim3\bin\Debug\Dim3.exe
+D:\C-sharp\ch05\Dim3\Dim3\bin\Debug\Dim3.pdb
+D:\C-sharp\ch05\Dim3\Dim3\obj\Debug\Dim3.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\Dim3\Dim3\obj\Debug\Dim3.exe
+D:\C-sharp\ch05\Dim3\Dim3\obj\Debug\Dim3.pdb

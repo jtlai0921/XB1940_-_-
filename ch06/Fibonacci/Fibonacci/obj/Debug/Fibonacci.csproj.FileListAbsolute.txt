@@ -1,0 +1,6 @@
+D:\C-sharp\ch06\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\C-sharp\ch06\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\C-sharp\ch06\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\C-sharp\ch06\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\C-sharp\ch06\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

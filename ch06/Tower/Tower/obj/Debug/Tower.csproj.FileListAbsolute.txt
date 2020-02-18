@@ -1,0 +1,7 @@
+D:\C-sharp\ch06\Tower\Tower\bin\Debug\Tower.exe.config
+D:\C-sharp\ch06\Tower\Tower\bin\Debug\Tower.exe
+D:\C-sharp\ch06\Tower\Tower\bin\Debug\Tower.pdb
+D:\C-sharp\ch06\Tower\Tower\obj\Debug\Tower.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\Tower\Tower\obj\Debug\Tower.exe
+D:\C-sharp\ch06\Tower\Tower\obj\Debug\Tower.pdb
+D:\C-sharp\ch06\Tower\Tower\obj\Debug\Tower.csprojAssemblyReference.cache

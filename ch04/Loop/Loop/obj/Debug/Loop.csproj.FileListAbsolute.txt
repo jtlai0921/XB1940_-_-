@@ -1,0 +1,6 @@
+D:\C-sharp\ch04\Loop\Loop\bin\Debug\Loop.exe.config
+D:\C-sharp\ch04\Loop\Loop\bin\Debug\Loop.exe
+D:\C-sharp\ch04\Loop\Loop\bin\Debug\Loop.pdb
+D:\C-sharp\ch04\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch04\Loop\Loop\obj\Debug\Loop.exe
+D:\C-sharp\ch04\Loop\Loop\obj\Debug\Loop.pdb

@@ -1,0 +1,6 @@
+D:\C-sharp\ch05\Formatting\Formatting\bin\Debug\Formatting.exe.config
+D:\C-sharp\ch05\Formatting\Formatting\bin\Debug\Formatting.exe
+D:\C-sharp\ch05\Formatting\Formatting\bin\Debug\Formatting.pdb
+D:\C-sharp\ch05\Formatting\Formatting\obj\Debug\Formatting.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\Formatting\Formatting\obj\Debug\Formatting.exe
+D:\C-sharp\ch05\Formatting\Formatting\obj\Debug\Formatting.pdb

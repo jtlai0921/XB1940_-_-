@@ -1,0 +1,7 @@
+D:\C-sharp\ch05\Dim1\Dim1\bin\Debug\Dim1.exe.config
+D:\C-sharp\ch05\Dim1\Dim1\bin\Debug\Dim1.exe
+D:\C-sharp\ch05\Dim1\Dim1\bin\Debug\Dim1.pdb
+D:\C-sharp\ch05\Dim1\Dim1\obj\Debug\Dim1.csprojAssemblyReference.cache
+D:\C-sharp\ch05\Dim1\Dim1\obj\Debug\Dim1.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch05\Dim1\Dim1\obj\Debug\Dim1.exe
+D:\C-sharp\ch05\Dim1\Dim1\obj\Debug\Dim1.pdb

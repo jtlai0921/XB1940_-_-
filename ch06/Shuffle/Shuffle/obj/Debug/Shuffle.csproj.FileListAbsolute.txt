@@ -1,0 +1,6 @@
+D:\C-sharp\ch06\Shuffle\Shuffle\bin\Debug\Shuffle.exe.config
+D:\C-sharp\ch06\Shuffle\Shuffle\bin\Debug\Shuffle.exe
+D:\C-sharp\ch06\Shuffle\Shuffle\bin\Debug\Shuffle.pdb
+D:\C-sharp\ch06\Shuffle\Shuffle\obj\Debug\Shuffle.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\Shuffle\Shuffle\obj\Debug\Shuffle.exe
+D:\C-sharp\ch06\Shuffle\Shuffle\obj\Debug\Shuffle.pdb

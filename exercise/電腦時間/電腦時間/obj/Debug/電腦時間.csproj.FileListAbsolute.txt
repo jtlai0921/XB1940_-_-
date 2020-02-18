@@ -1,0 +1,6 @@
+D:\C-sharp\exercise\電腦時間\電腦時間\bin\Debug\電腦時間.exe.config
+D:\C-sharp\exercise\電腦時間\電腦時間\bin\Debug\電腦時間.exe
+D:\C-sharp\exercise\電腦時間\電腦時間\bin\Debug\電腦時間.pdb
+D:\C-sharp\exercise\電腦時間\電腦時間\obj\Debug\電腦時間.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\電腦時間\電腦時間\obj\Debug\電腦時間.exe
+D:\C-sharp\exercise\電腦時間\電腦時間\obj\Debug\電腦時間.pdb

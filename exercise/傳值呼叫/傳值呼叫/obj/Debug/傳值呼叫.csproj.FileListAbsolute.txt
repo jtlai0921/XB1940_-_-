@@ -1,0 +1,6 @@
+D:\C-sharp\exercise\傳值呼叫\傳值呼叫\obj\Debug\傳值呼叫.csproj.CoreCompileInputs.cache
+D:\C-sharp\exercise\傳值呼叫\傳值呼叫\bin\Debug\傳值呼叫.exe.config
+D:\C-sharp\exercise\傳值呼叫\傳值呼叫\bin\Debug\傳值呼叫.exe
+D:\C-sharp\exercise\傳值呼叫\傳值呼叫\bin\Debug\傳值呼叫.pdb
+D:\C-sharp\exercise\傳值呼叫\傳值呼叫\obj\Debug\傳值呼叫.exe
+D:\C-sharp\exercise\傳值呼叫\傳值呼叫\obj\Debug\傳值呼叫.pdb

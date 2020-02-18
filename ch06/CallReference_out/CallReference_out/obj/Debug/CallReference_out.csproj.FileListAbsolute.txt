@@ -1,0 +1,6 @@
+D:\C-sharp\ch06\CallReference_out\CallReference_out\bin\Debug\CallReference_out.exe.config
+D:\C-sharp\ch06\CallReference_out\CallReference_out\bin\Debug\CallReference_out.exe
+D:\C-sharp\ch06\CallReference_out\CallReference_out\bin\Debug\CallReference_out.pdb
+D:\C-sharp\ch06\CallReference_out\CallReference_out\obj\Debug\CallReference_out.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch06\CallReference_out\CallReference_out\obj\Debug\CallReference_out.exe
+D:\C-sharp\ch06\CallReference_out\CallReference_out\obj\Debug\CallReference_out.pdb

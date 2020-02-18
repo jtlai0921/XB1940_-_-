@@ -1,0 +1,6 @@
+D:\C-sharp\ch02\Flag\Flag\bin\Debug\Flag.exe.config
+D:\C-sharp\ch02\Flag\Flag\bin\Debug\Flag.exe
+D:\C-sharp\ch02\Flag\Flag\bin\Debug\Flag.pdb
+D:\C-sharp\ch02\Flag\Flag\obj\Debug\Flag.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch02\Flag\Flag\obj\Debug\Flag.exe
+D:\C-sharp\ch02\Flag\Flag\obj\Debug\Flag.pdb

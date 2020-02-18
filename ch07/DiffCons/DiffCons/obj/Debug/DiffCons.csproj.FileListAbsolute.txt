@@ -1,0 +1,6 @@
+D:\C-sharp\ch07\DiffCons\DiffCons\bin\Debug\DiffCons.exe.config
+D:\C-sharp\ch07\DiffCons\DiffCons\bin\Debug\DiffCons.exe
+D:\C-sharp\ch07\DiffCons\DiffCons\bin\Debug\DiffCons.pdb
+D:\C-sharp\ch07\DiffCons\DiffCons\obj\Debug\DiffCons.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch07\DiffCons\DiffCons\obj\Debug\DiffCons.exe
+D:\C-sharp\ch07\DiffCons\DiffCons\obj\Debug\DiffCons.pdb

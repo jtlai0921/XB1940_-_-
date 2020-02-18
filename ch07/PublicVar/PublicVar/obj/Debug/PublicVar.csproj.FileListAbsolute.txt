@@ -1,0 +1,7 @@
+D:\C-sharp\ch07\PublicVar\PublicVar\bin\Debug\PublicVar.exe.config
+D:\C-sharp\ch07\PublicVar\PublicVar\bin\Debug\PublicVar.exe
+D:\C-sharp\ch07\PublicVar\PublicVar\bin\Debug\PublicVar.pdb
+D:\C-sharp\ch07\PublicVar\PublicVar\obj\Debug\PublicVar.csprojAssemblyReference.cache
+D:\C-sharp\ch07\PublicVar\PublicVar\obj\Debug\PublicVar.csproj.CoreCompileInputs.cache
+D:\C-sharp\ch07\PublicVar\PublicVar\obj\Debug\PublicVar.exe
+D:\C-sharp\ch07\PublicVar\PublicVar\obj\Debug\PublicVar.pdb
